@@ -50,8 +50,6 @@ Assignment-2/
 │
 ├── routes/
 │   └── studentRoutes.js
-│
-└── node_modules/
 ```
 
 ---
